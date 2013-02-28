@@ -12,4 +12,4 @@ cpuload
 * 对于不支持canvas的IE系列浏览器请设置flashcavnas
 
 ##作者##
-* 蜗眼<iceet[at]uoeye.com>
+* 蜗眼（iceet[at]uoeye.com ）
